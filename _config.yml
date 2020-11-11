@@ -10,7 +10,7 @@ description: > # "Write an awesome description for your new site here.
   A hard-working person who is always responsible for assigned works and try to finish them with the best quality.
   A good single-player as well as a team-player. 
 copyright: 'Copyright &copy; 2015 Nguyễn Văn Vận. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+# credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
