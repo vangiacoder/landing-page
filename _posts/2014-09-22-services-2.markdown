@@ -5,8 +5,5 @@ category: Services
 title: Research about Spring Framework and build an e-commerce website with Spring
 description: |
 ---
-  Technology used in this project when I study at campus:
-   + Spring (Spring,...)
-   + JSON Web Token
-   + MySQL
-   + Boostrap
+  When I was studying at Hanoi University of Industry, I did a topic in open source. That is to learn about spring framework and create a [commercial website](https://github.com/vegetaz/onelineshopping) based on Spring.
+  This website I use Spring mainly, still apply RESTful API, JWT, Spring Security, ... For the front-end I use a Boostrap template available on the internet.
