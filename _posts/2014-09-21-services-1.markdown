@@ -2,7 +2,8 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Build a e-commerce website with Spring Boot
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  A special thanks to [Hoàng Hiệp](https://www.facebook.com/hoanghiep0409/) for guided and helped me to complete an e-commerce website using Spring Boot, Spring Security, RESTful API, JWT, MongoDB, MySQL, Boostrap, ...  when I studied at [T3H](http://t3h.edu.vn/) center.
+  Thank you very much, teacher!
