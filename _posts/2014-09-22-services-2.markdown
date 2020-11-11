@@ -2,7 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: Research about Spring Framework and build a e-commerce website with Spring
+title: Research about Spring Framework and build an e-commerce website with Spring
 description: |
 ---
   Technology used in this project when I study at campus:

@@ -2,8 +2,8 @@
 layout: default
 img: ipad.png
 category: Services
-title: Build a e-commerce website with Spring Boot
+title: Build an e-commerce website with Spring Boot
 description: |
 ---
-  A special thanks to [Hoàng Hiệp](https://www.facebook.com/hoanghiep0409/) for guided and helped me to complete an e-commerce website using Spring Boot, Spring Security, RESTful API, JWT, MongoDB, MySQL, Boostrap, ...  when I studied at [T3H](http://t3h.edu.vn/) center.
+  A special thanks to [Hoàng Hiệp](https://www.facebook.com/hoanghiep0409/) for guided and helped me to complete an [e-commerce website](https://github.com/vegetaz/watch-time/) using Spring Boot, Spring Security, RESTful API, JWT, MongoDB, MySQL, Boostrap, ...  when I studied at [T3H](http://t3h.edu.vn/) center.
   Thank you very much, teacher!
