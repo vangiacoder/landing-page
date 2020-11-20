@@ -5,5 +5,4 @@ category: Services
 title: Build an e-commerce website with Spring Boot
 description: |
 ---
-  A special thanks to [Hoàng Hiệp](https://www.facebook.com/hoanghiep0409/) for guided and helped me to complete an [e-commerce website](https://github.com/vegetaz/watch-time/) using Spring Boot, Spring Security, RESTful API, JWT, MongoDB, MySQL, Boostrap, ...  when I studied at [T3H](http://t3h.edu.vn/) center.
-  Thank you very much, teacher!
+  TIME WATCH is my personal project when I was at T3H. This e-commerce website is built with Spring Boot, Spring Security, RESTful API, JWT, MongoDB, MySQL, Boostrap, etc. I would like to express my gratitude to my teacher, [Mr. Hoàng Hiệp](https://www.facebook.com/hoanghiep0409/). I would not complete this website without his guidance and support.
