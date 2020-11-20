@@ -5,4 +5,4 @@ category: Services
 title: TIME WATCH - A Spring Boot project
 description: |
 ---
-  TIME WATCH is my personal project when I was at T3H. This e-commerce website is built with Spring Boot, Spring Security, RESTful API, JWT, MongoDB, MySQL, Boostrap, etc. I would like to express my gratitude to my teacher, [Mr. Hoàng Hiệp](https://www.facebook.com/hoanghiep0409/). I would not complete this website without his guidance and support.
+  [TIME WATCH](https://github.com/vegetaz/watch-time) is my personal project when I was at T3H. This e-commerce website is built with Spring Boot, Spring Security, RESTful API, JWT, MongoDB, MySQL, Boostrap, etc. I would like to express my gratitude to my teacher, [Mr. Hoàng Hiệp](https://www.facebook.com/hoanghiep0409/). I would not complete this website without his guidance and support.
