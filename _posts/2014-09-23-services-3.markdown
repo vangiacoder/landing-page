@@ -5,4 +5,4 @@ category: Services
 title: Vận Già Blog
 description: |
 ---
-I also have a small blog, which contains information that I found useful, you can see it here: [vegetaz.github.io](https://vegetaz.github.io/).
+I also have a small blog which contains information that I find useful. You can find it here: [vegetaz.github.io](https://vegetaz.github.io/).
