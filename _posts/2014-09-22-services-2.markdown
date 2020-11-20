@@ -5,4 +5,4 @@ category: Services
 title: Spring & Spring Framework
 description: |
 ---
-  When I was studying at Hanoi University of Industry, my research topic was "open source". I found Spring framework quite interesting so I studied it and built an [e-commerce website](https://github.com/vegetaz/onelineshopping) with Spring. On that website, I use Bootstrap template for front-end and mainly Spring for back-end. Other applied RESTful API, JWT, Spring Security, MySQL, Boostrap, etc.
+  When I was studying at Hanoi University of Industry, <br/>my research topic was "open source". I found Spring framework quite interesting so I studied it and built an [e-commerce website](https://github.com/vegetaz/onelineshopping) with Spring. On that website, I use Bootstrap template for front-end and mainly Spring for back-end. Other built with RESTful API, JWT, Spring Security, MySQL, etc.
